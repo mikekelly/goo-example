@@ -1,0 +1,2 @@
+require('Janus').start();
+
