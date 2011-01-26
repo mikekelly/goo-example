@@ -1,7 +1,7 @@
 var cwd = process.cwd();
 
-var Janus = require('Janus');
-var app = Janus.app(cwd);
+var goo = require('goo');
+var app = goo.app(cwd);
 
 app.start();
 
