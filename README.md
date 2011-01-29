@@ -1,5 +1,17 @@
 This is an example application using the [goo framework](https://github.com/mikekelly/goo).
 
+Installation
+------------
+
+Install goo:
+
+    git clone git@github.com:mikekelly/goo.git && npm link ./goo
+
+Install and run this example app:
+
+    git clone git@github.com:mikekelly/goo-example.git && cd goo-example && node server.js
+
+
 Project Structure
 -----------------
 
