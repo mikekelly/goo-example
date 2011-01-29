@@ -14,7 +14,9 @@
 */
 
 exports.routes = {
-    '^/$': 'home',
-    '^/example$': 'another_resource'
+  '^/$': 'home',
+  '^/example$': 'another_resource',
+  '^/test$': 'foo/test',
+  '^/invalid$': 'bogus'
 };
 
