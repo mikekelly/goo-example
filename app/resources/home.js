@@ -7,7 +7,7 @@ exports.resource = {
         headers: {
           "Content-Type" : "text/html"
         },
-        body: ["<html><body><h1>Welcome to Resauce.js</h1><a href='/example'>Example</a></body></html>"]
+        body: ["<html><body><h1>Welcome to goo!</h1><a href='/example'>Example</a></body></html>"]
       };
     },
     PUT: function(request){
